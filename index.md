@@ -1,6 +1,5 @@
 The Rainmaker platform is built for developers. We've engineered API first, and built all our functionality on the same API you have access to as a 3rd party developer.
 
-
 # Getting Started
 We've developed a number of ways for you to work with the Rainmaker platform as a developer. Depending on budget or amount of time you have...
 
