@@ -335,6 +335,15 @@ Removes any markdown formatting from a string. This is helpful when you want to 
 #### strip_tags
 Removes any HTML tags from a string. This is helpful when you want to generate a preview of some markdown content.
 
+#### substr(start[, length])
+Returns the portion of string specified by the start and length parameters.
+
+#### lpad(length[, padstring])
+Returns the string padded on the left with characters up to `length` with `padstring`.
+
+#### rpad(length[, padstring])
+Returns the string padded on the right with characters up to `length` with `padstring`.
+
 #### tf
 Evaluate the passed value for truthiness and then return boolean `true` or `false`.
 
