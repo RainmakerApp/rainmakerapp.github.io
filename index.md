@@ -65,5 +65,5 @@ Here's an example email-signup form.
     <input type="hidden" name="--failure" value="http://yourwebsite.com/email-signup-failure"/>
     <input type="submit" value="Sign Up"/>
   </div>
-</form>
+</form>z
 ```
