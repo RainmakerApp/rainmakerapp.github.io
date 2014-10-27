@@ -1,0 +1,24 @@
+{
+  "name": "Documentation",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RainmakerApp/rainmakerapp.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RainmakerApp/rainmakerapp.github.io/issues"
+  },
+  "homepage": "https://github.com/RainmakerApp/rainmakerapp.github.io",
+  "devDependencies": {
+    "gulp": "^3.8.9",
+    "gulp-jade": "^0.9.0",
+    "gulp-watch": "^1.1.0"
+  }
+}

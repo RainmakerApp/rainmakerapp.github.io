@@ -1,0 +1,7 @@
+extends ../includes/template
+block head
+  - var active = 'index'
+  script(type='text/javascript').
+    Flatdoc.run({
+        fetcher: Flatdoc.file('./index.md')
+    });

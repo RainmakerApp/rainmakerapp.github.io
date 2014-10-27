@@ -1,22 +1,5 @@
 # Getting Started
 
-### Developer Access
-
-### Skill Requirements
-
-### Using Grunt.js
-
-# Installation
-
-### Requirements
-* Node.JS ( http://nodejs.org/ )
-* Grunt `sudo npm install -g grunt-cli`
-* Yeoman
-
-### Setup
-1. Open terminal and `cd` to the directory of this file.
-2. Type `yo install rainmaker`
-
 # Theme Language
 We've developed a theming syntax that allows you to use the data available over the API in an incredibly efficient way. In your theme folder there are a few "smart" folders.
 
